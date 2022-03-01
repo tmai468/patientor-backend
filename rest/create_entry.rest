@@ -1,0 +1,10 @@
+POST http://localhost:3002/api/patients/d2773336-f723-11e9-8f0b-362b9e155667/entries
+Content-Type: application/json
+
+{
+    "description": "Placeholder",
+    "date": "2022-01-03",
+    "specialist": "Tracey Mai",
+    "type": "HealthCheck",
+    "healthCheckRating": 1
+}
